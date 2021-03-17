@@ -22,24 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Postdoctoral Researcher
+    company: Wageningen University and Research
+    company_url: 'www.wur.nl'
+    location: Wageninegn NL
+    date_start: '2021-05-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
+    description: Investigate recruitment of beneficial microbes by plants upon biotic invasion using Integrative -omics.
+
+  - title: ERC Research Fellow
+    company: University of Exeter
+    company_url: 'www.exeter.ac.uk'
+    location: Penryn Campus, Penryn Cornwall UK
     date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_end: '2021-04-30'
+    description: Insect resistance evolution and Butterfly genomics
+
+  - title: Postdoctoral Bioinformatics Scientist
+    company: Rothamsted Research
+    company_url: 'https://www.rothamsted.ac.uk/'
+    location: Harpenden, Hertfordshire UK
+    date_start: '2014-11-10'
+    date_end: '2015-12-31'
+    description: Bee Toxicogenomics (Genomics and Transcriptomics) 
+
 ---
