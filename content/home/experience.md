@@ -35,8 +35,8 @@ experience:
     company_url: 'www.exeter.ac.uk'
     location: Penryn Campus, Penryn Cornwall UK
     date_start: '2016-01-01'
-    date_end: '2021-04-30'
-    description: Insect resistance evolution and Butterfly genomics
+    date_end: ''
+    description: Insect pests resistance evolution and Butterfly genomics
 
   - title: Postdoctoral Bioinformatics Scientist
     company: Rothamsted Research
@@ -44,6 +44,22 @@ experience:
     location: Harpenden, Hertfordshire UK
     date_start: '2014-11-10'
     date_end: '2015-12-31'
-    description: Bee Toxicogenomics (Genomics and Transcriptomics) 
+    description: Bee Toxicogenomics - Genomics and Transcriptomics
+
+  - title: EU FP7 Research Scholar
+    company: University of Camerino
+    company_url: 'www.unicam.it'
+    location: Camerino Italy
+    date_start: '2011-05-01'
+    date_end: '2014-10-27'
+    description: Data analysis, algorithm development and web development
+
+  - title: Bioinformatics Scientist
+    company: PREMIER Biosoft
+    company_url: 'www.premierbiosoft.com'
+    location: Palo Alto CA USA
+    date_start: '2008-05-01'
+    date_end: '2011-01-31'
+    description: Domain expert Primer Premier, AlleleID, Primer Plex, Beacon Designer, Array Designer
 
 ---

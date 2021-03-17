@@ -74,4 +74,4 @@ highlight_name: true
 ---
 I am a research scientist at Wageningen University & Research. My research interests include exploring -omics data to understand patterns and mechanisms of plant biotic interactions and co-evolution. 
 
-Currently, together with the WUR Bioinformatics group (Dr. Marnix Medema), Plant-Microbe interaction group (Dr. Saskia Van Wees/Corné Pieterse) at Utrecht university and Microbial ecology group at NIOO-KNAW (Prof. Jos Raaijmakers), I will explore and implement innovative -omics integration strategies to systematically connect genes and their expression patterns to metabolites that play key roles in host-microbe interactions.
+Currently, with the WUR Bioinformatics group (Dr. Marnix Medema), Plant-Microbe interaction group (Dr. Saskia Van Wees/Prof. Corné Pieterse) at Utrecht university and Microbial ecology group at NIOO-KNAW (Prof. Jos Raaijmakers), I will explore and implement innovative -omics integration strategies to systematically connect genes and their expression patterns to metabolites that play key roles in host-microbe interactions.
