@@ -19,20 +19,20 @@ organizations:
 # Interests to show in About widget
 interests:
 - Integrative -omics
-- Biotic interactions and coevolution
 - Bioinformatics
+- Biotic interactions and co-evolution
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Bioinformatics
-    institution: University of Camerino
+    institution: University of Camerino Italy
     year: 2014
   - course: MSc. in Bioinformatics
-    institution: Nottingham Trent University
+    institution: Nottingham Trent University UK
     year: 2008
   - course: BSc in Biotechnology
-    institution: University of Pune
+    institution: University of Pune India
     year: 2006
 
 # Social/Academic Networking
@@ -70,8 +70,6 @@ social:
 email: "kumarsaurabh20@gmail.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
-I am a research scientist at Wageningen University & Research. My research interests include exploring -omics data to understand patterns and mechanisms of plant biotic interactions and co-evolution. 
-
-Currently, with the WUR Bioinformatics group (Dr. Marnix Medema), Plant-Microbe interaction group (Dr. Saskia Van Wees/Prof. Corné Pieterse) at Utrecht university and Microbial ecology group at NIOO-KNAW (Prof. Jos Raaijmakers), I will explore and implement innovative -omics integration strategies to systematically connect genes and their expression patterns to metabolites that play key roles in host-microbe interactions.
+I am a research scientist at Wageningen University & Research. My research interests include exploring *-omics* data to understand patterns and mechanisms of plant biotic interactions and co-evolution. Together with the WUR Bioinformatics group (Dr. Marnix Medema), Plant-Microbe interaction group (Dr. Saskia Van Wees/Prof. Corné Pieterse) at Utrecht university and Microbial ecology group at NIOO-KNAW (Prof. Jos Raaijmakers), I explore and implement innovative *-omics* integration strategies to map genes and their expression patterns to metabolites that play key roles in host-microbe interactions.
