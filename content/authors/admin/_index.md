@@ -18,7 +18,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Integrative -omics
+- Integrative *-omics*
 - Bioinformatics
 - Biotic interactions and co-evolution
 

@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: Forest
 day_night: true
 font: ''
 font_size: L
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: kumarsaurabh20@gmail.com
+email:
 address:
   street: Droevendaalsesteeg 1
   city: Wageningen
@@ -40,16 +40,16 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/Kumar_S_Singh'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'https://join.skype.com/invite/gvlrIsjQ7dxR'
+  #- icon: skype
+  #  icon_pack: fab
+  #  name: 
+  #  link: ''
 
 # Site header
 
 main_menu:
   enable: true
-  align: c
+  align: r
   show_logo: true
   show_language: false
   show_day_night: false
@@ -99,7 +99,7 @@ abstract_length: 135
 plugins_js: []
 avatar:
   gravatar: false
-  shape: square
+  shape: circle
 publications:
   date_format: January 2006
   citation_style: apa
