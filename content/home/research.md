@@ -21,7 +21,7 @@ design:
   columns: "1"
   # Use a dark navy background with light text.
   background:
-    color: 'green'
+    color: '#339933'
     text_color_light: true
 ---
 My overall research interest aims to integrate and explore -omics datasets (genomics, transcriptomiocs, epigenomics and metabolomics) to understand patterns and mechanisms of biotic interactions and co-evolution. 
