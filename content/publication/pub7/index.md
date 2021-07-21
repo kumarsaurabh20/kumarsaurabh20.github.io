@@ -35,7 +35,7 @@ abstract: The impact of neonicotinoid insecticides on the health of bee pollinat
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
