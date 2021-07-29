@@ -38,7 +38,7 @@ experience:
     date_end: ''
     description: Investigate recruitment of beneficial microbes by plants upon biotic invasion using Integrative -omics.
 
-  - title: ERC Research Fellow
+  - title: Associate (Bass lab)
     company: University of Exeter
     company_url: 'www.exeter.ac.uk'
     location: Penryn Campus, Penryn Cornwall UK
