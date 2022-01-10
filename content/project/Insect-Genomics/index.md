@@ -13,7 +13,7 @@ date: "2022-01-06T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Singh et al. 2020 Sci. Adv.
+  caption: by Kumar Saurabh Singh.
   focal_point: Smart
 
 links:
