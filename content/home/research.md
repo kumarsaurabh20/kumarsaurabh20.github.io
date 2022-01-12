@@ -20,9 +20,6 @@ design:
   # Use a 1-column layout
   columns: "1"
   # Use a dark navy background with light text.
-  background:
-    color: '#339933'
-    text_color_light: true
 ---
 In my current postdoctoral research at Wageningen University & Research and at Utrecht University, I investigate interactions between endophytes and their host-plants by integrating genomics, transcriptomics and metabolomics data. Please check the [NWO Groot](https://kumarsaurabhsingh.com/project/nwo-groot/) in the project section and a summary of my project in the form of a [poster](https://kumarsaurabhsingh.com/Poster/NWO-Groot/poster1.pdf).
 

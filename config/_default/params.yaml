@@ -52,7 +52,7 @@ main_menu:
   align: r
   show_logo: true
   show_language: false
-  show_day_night: false
+  show_day_night: true
   show_search: true
   highlight_active_link: true
 
@@ -82,8 +82,8 @@ show_related:
   book: true
   page: false
   post: true
-  project: true
-  publication: true
+  project: false
+  publication: false
   event: true
 reading_time: true
 section_pager: false
@@ -92,7 +92,7 @@ sharing: true
 copyright_license:
   enable: false
   allow_derivatives: false
-  share_alike: true
+  share_alike: false
   allow_commercial: false
   notice: 'This work is licensed under {license}'
 abstract_length: 135
@@ -114,10 +114,10 @@ comments:
   provider: ''
   commentable:
     post: true
-    book: true
-    project: true
-    publication: true
-    event: true
+    book: false
+    project: false
+    publication: false
+    event: false
   disqus:
     shortname: ''
     show_count: true
