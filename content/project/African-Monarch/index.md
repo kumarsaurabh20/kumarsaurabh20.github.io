@@ -36,4 +36,6 @@ slides: ""
 
 ## Abstract
 
+![African Monarch](/queen2.png)
+
 Milkweed butterflies in the genus Danaus are studied in a diverse range of research fields including the neurobiology of migration, biochemistry of plant detoxification, host-parasite interactions, evolution of sex chromosomes, and speciation. We have assembled a nearly chromosomal genome for Danaus chrysippus (known as the African Monarch, African Queen, and Plain Tiger) using long read sequencing data. This species is of particular interest for the study of genome structural change and its consequences for evolution. Comparison with the genome of the North American Monarch Danaus plexippus reveals generally strong synteny, but highlights three inversion differences. The three chromosomes involved were previously found to carry peaks of intra-specific differentiation in D. chrysippus in Africa, suggesting that these inversions may be polymorphic and associated with local adaptation. The D. chrysippus genome is over 40% larger than that of D. plexippus, and nearly all of the additional ∼100 Megabases of DNA comprises repeats. Future comparative genomic studies within this genus will shed light on the evolution of genome architecture.

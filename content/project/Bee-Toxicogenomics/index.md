@@ -32,3 +32,4 @@ posters: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+![Bee toxicogenomics](/osmia2.png)

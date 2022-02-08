@@ -35,5 +35,7 @@ slides: ""
 ---
 ![Project P450 RESIST](/poster.png)
 
+![Project P450 RESIST](/pests.png)
+
 Insect resistance to synthetic insecticides and the anti-herbivore defence chemicals produced by many plants is an ongoing challenge to sustainable pest management while also an exceptional model system to study adaptive evolution. The cytochrome P450s are a superfamily of enzymes that are ubiquitous in nature, and one of the most important enzyme families used by insects to defend themselves against natural and synthetic xenobiotics. Insects have been shown to evolve resistance through quantitative changes in metabolic gene expression or via qualitative changes in genes that alter metabolic activity. In this project we have exploited cutting-edge advances in genomics, transcriptomics and epigenetics to study the insect resistome.
 
