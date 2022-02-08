@@ -11,7 +11,7 @@ date: "2022-01-06T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Beadle et al. 2019 PloS Genetics
+  caption: Osmia bicornis
   focal_point: Smart
 
 links:

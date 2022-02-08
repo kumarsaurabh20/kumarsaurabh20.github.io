@@ -12,7 +12,7 @@ date: "2022-01-06T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Singh et al. 2021 G3
+  caption: African Monarch
   focal_point: Smart
 
 links:
