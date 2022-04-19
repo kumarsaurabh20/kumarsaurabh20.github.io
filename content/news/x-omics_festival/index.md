@@ -1,6 +1,6 @@
 ---
 title: X-omics Festival 2022 best scientific poster award
-summary: We have presented a poster in the fourth edition of X-omics festival “the future of multi-omics research is now!” on Monday April 11th 2022 https://x-omics.nl/festival/festival-2022. It was a great event and very well organized. Scientific poster session allowed us to network with others working with similar goals and our poster on MEANtools, Integrative omics for the discovery of biosynthetic pathways using MEANtools (MEtabolite ANticipation tools) was awarded the best poster prize of 2022. 
+summary: We have presented a poster in the fourth edition of the X-omics festival “the future of multi-omics research is now!” on Monday April 11th 2022 https://x-omics.nl/festival/festival-2022. It was a great event and very well organized. Scientific poster session allowed us to network with others working with similar goals and our poster on MEANtools, Integrative omics for the discovery of biosynthetic pathways using MEANtools (MEtabolite ANticipation tools) was awarded the best poster prize of 2022. 
 
 tags:
 - omics
