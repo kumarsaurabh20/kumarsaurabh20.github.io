@@ -1,19 +1,20 @@
 ---
-title: (15-04-22) X-omics Festival 2022 best scientific poster award
-summary: We have presented a poster in the fourth edition of the X-omics festival “the future of multi-omics research is now!” on Monday April 11th 2022 https://x-omics.nl/festival/festival-2022. It was a great event and very well organized. Scientific poster session allowed us to network with others working with similar goals and our poster on MEANtools, Integrative omics for the discovery of biosynthetic pathways using MEANtools (MEtabolite ANticipation tools) was awarded the best poster prize of 2022. 
+title: (29-06-22) BioSB 2022 presentation in the metabolomics parallel session
+summary: I have recently presented my work at the BioSB 2022 conference in Lunteren, the Netherlands, on the integrative omics using MEANtools (MEtabolite ANticipation tools) to discover biosynthetic pathways in plants. 
 
 tags:
 - omics
 - X-omics
 - data-integration
 - pathway-discovery
-date: "2022-04-15T00:00:00Z"
+- BioSB_2022
+date: "2022-06-29"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Scientific poster award
+  caption: Scientific presentation
   focal_point: Smart
 
 links:
@@ -21,8 +22,8 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/kumar_s_singh
-url_code: ""
-url_pdf: "/news/x-omics_festival/X-omics_2022_poster.pdf"
+url_code: "https://www.aanmelder.nl/biosb2022/metabolomics"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
