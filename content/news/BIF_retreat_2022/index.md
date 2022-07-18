@@ -1,5 +1,5 @@
 ---
-title: (29-06-22) Bioinformatics group (WUR) retreat 2022
+title: (11-07-22) Bioinformatics group (WUR) retreat 2022
 summary: The bioinformatics group at WUR recently organized a two-days retreat at Hapert, The Netherlands. It was an lovely location amidst beautiful country side. The retreat mainly comprised of social events and scientific flash talks. I presented a flash talk on my research as a part of the NWO Groot project and also delivered a workshop on teams/project management in academia. The retreat allowed all the department members to interact closely with their fellow workers and group leaders in an informal way. 
 
 tags:
