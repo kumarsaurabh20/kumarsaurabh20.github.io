@@ -35,7 +35,7 @@ abstract: The green peach aphid, Myzus persicae, is a globally distributed highl
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

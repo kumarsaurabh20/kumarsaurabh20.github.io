@@ -1,5 +1,5 @@
 ---
-title: "Global patterns in genomic diversity underpinning the evolution of insecticide resistance in the aphid crop pest Myzus persicae"
+title: "Integrative omics approaches for biosynthetic pathway discovery in plants"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -11,11 +11,11 @@ authors:
 author_notes:
 - " "
 
-date: "2021-07-07T00:00:00Z"
-doi: "10.1038/s42003-021-02373-x"
+date: "2022-08-23T00:00:00Z"
+doi: "https://doi.org/10.1039/D2NP00032F"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-07-07T00:00:00Z"
+publishDate: "2022-08-23T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,10 +24,10 @@ publishDate: "2021-07-07T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Nature Communication Biology
+publication: Natural Product Reports
 publication_short:
 
-abstract: The aphid Myzus persicae is a destructive agricultural pest that displays an exceptional ability to develop resistance to both natural and synthetic insecticides. To investigate the evolution of resistance in this species we generated a chromosome-scale genome assembly and living panel of >110 fully sequenced globally sampled clonal lines. Our analyses reveal a remarkable diversity of resistance mutations segregating in global populations of M. persicae. We show that the emergence and spread of these mechanisms is influenced by host–plant associations, uncovering the widespread co‐option of a host-plant adaptation that also offers resistance against synthetic insecticides. We identify both the repeated evolution of independent resistance mutations at the same locus, and multiple instances of the evolution of novel resistance mechanisms against key insecticides. Our findings provide fundamental insights into the genomic responses of global insect populations to strong selective forces, and hold practical relevance for the control of pests and parasites.
+abstract: With the emergence of large amounts of omics data, computational approaches for the identification of plant natural product biosynthetic pathways and their genetic regulation have become increasingly important. While genomes provide clues regarding functional associations between genes based on gene clustering, metabolome mining provides a foundational technology to chart natural product structural diversity in plants, and transcriptomics has been successfully used to identify new members of their biosynthetic pathways based on coexpression. Thus far, most approaches utilizing transcriptomics and metabolomics have been targeted towards specific pathways and use one type of omics data at a time. Recent technological advances now provide new opportunities for integration of multiple omics types and untargeted pathway discovery. Here, we review advances in plant biosynthetic pathway discovery using genomics, transcriptomics, and metabolomics, as well as recent efforts towards omics integration. We highlight how transcriptomics and metabolomics provide complementary information to link genes to metabolites, by associating temporal and spatial gene expression levels with metabolite abundance levels across samples, and by matching mass-spectral features to enzyme families. Furthermore, we suggest that elucidation of gene regulatory networks using time-series data may prove useful for efforts to unwire the complexities of biosynthetic pathway components based on regulatory interactions and events.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -35,14 +35,14 @@ abstract: The aphid Myzus persicae is a destructive agricultural pest that displ
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.nature.com/articles/s42003-021-02373-x.pdf'
+url_pdf: 'https://pubs.rsc.org/en/content/articlepdf/2022/np/d2np00032f'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -63,7 +63,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["Insect-Genomics"]
+projects: ["NWO-Groot"]
 ---
 
 {{% callout note %}}
