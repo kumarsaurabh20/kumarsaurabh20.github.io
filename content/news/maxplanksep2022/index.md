@@ -35,7 +35,7 @@ posters: ""
 slides: ""
 ---
 
-![Conference group picture](/copenhagen_1.png)
+![Conference group picture](/maxplank_2.jpg)
 
 
 <!--{{< youtube m80E1K75vDI >}}-->
