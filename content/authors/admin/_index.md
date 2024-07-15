@@ -10,8 +10,8 @@ role: Computational biologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Wageningen University & Research
-  url: https://www.wur.nl/
+- name: University of Exeter
+  url: https://exeter.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -72,4 +72,5 @@ email: "kumarsaurabh20@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a research scientist at Wageningen University & Research. My research interests include exploring *-omics* data to understand patterns and mechanisms of plant biotic interactions and co-evolution. Together with the WUR Bioinformatics group (Dr. Marnix Medema), Plant-Microbe interaction group (Prof. Saskia Van Wees/Prof. Corné Pieterse) at Utrecht university and Microbial ecology group at NIOO-KNAW (Prof. Jos Raaijmakers), I explore and implement innovative *-omics* integration strategies to map genes and their expression patterns to metabolites that play key roles in host-microbe interactions.
+
+My research interests include exploring *-omics* data to understand patterns and mechanisms of plant biotic interactions and co-evolution. In collaboration with the WUR Bioinformatics group (Dr. Marnix Medema), Plant-Microbe interaction group (Prof. Saskia Van Wees/Prof. Corné Pieterse) at Utrecht university and Microbial ecology group at NIOO-KNAW (Prof. Jos Raaijmakers), I explore and implement innovative *-omics* integration strategies to map genes and their expression patterns to metabolites that play key roles in host-microbe interactions.
