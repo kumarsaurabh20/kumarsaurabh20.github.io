@@ -22,22 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoctoral Researcher
-    company: Wageningen University and Research
-    company_url: 'www.wur.nl'
-    location: Wageninegn NL
-    date_start: '2021-05-01'
-    date_end: ''
-    description: Investigate recruitment of beneficial microbes by plants upon biotic invasion using Integrative -omics.
-
-  - title: Postdoctoral Researcher
-    company: Plant-Microbe interaction group, Utrecht University (NWO Groot)
-    company_url: 'www.uu.nl'
-    location: Utrecht NL
-    date_start: '2021-05-01'
-    date_end: ''
-    description: Investigate recruitment of beneficial microbes by plants upon biotic invasion using Integrative -omics.
-
   - title: Associate (Bass lab)
     company: University of Exeter
     company_url: 'www.exeter.ac.uk'
