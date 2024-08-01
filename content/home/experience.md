@@ -22,12 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Associate (Bass lab)
+
+  - title: Assistant Professor
+    company: Maastricht University
+    company_url: https://www.maastrichtuniversity.nl
+    location: Brightsland Future Farming Institute, Venlo, the Netherlands
+    date_start: '2024-08-01'
+    date_end: ''
+    description: Plant Genome Bioinformatics
+
+  - title: Postdoctoral researcher
+    company: Wageningen University (Bioinformatics group) and Utrecht University (Plant-Microbe Interaction group)
+    company_url: 'www.exeter.ac.uk'
+    location: Wageningen and Utrecht, the Netherlands
+    date_start: '2021-05-01'
+    date_end: '2024-06-30'
+    description: Plant-microbe interaction using Multi-Omics
+
+  - title: Postdoctoral researcher (Bass lab)
     company: University of Exeter
     company_url: 'www.exeter.ac.uk'
     location: Penryn Campus, Penryn Cornwall UK
     date_start: '2016-01-01'
-    date_end: ''
+    date_end: '2023-03-31'
     description: Insect pests resistance evolution and Insect genomics
 
   - title: Postdoctoral Bioinformatics Scientist
