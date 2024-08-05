@@ -20,18 +20,18 @@ twitter: ''
 
 email:
 address:
-  street: Droevendaalsesteeg 1
-  city: Wageningen
-  region: Wageningen University and Research
-  postcode: '6708 PB'
+  street: Innovalaan 1
+  postcode: '5928 SX'
+  region: Maastricht University
+  city: Venlo
   country: Netherlands
   country_code: NL
 coordinates:
   latitude: '51.9863887'
   longitude: '5.6680085'
-directions: Radix Building
+directions: Brightlands Future Farming Institute
 office_hours:
-  - 'Thu-Fri 10.00 to 13:00'
+  - 'Mon-Wed-Thu-Fri 9.00 to 17:00'
 appointment_url: 'https://calendly.com/kumarsaurabhsingh'
 contact_links:
   - icon: twitter
