@@ -20,6 +20,7 @@ organizations:
 interests:
 - Integrative *-omics*
 - Bioinformatics
+- Gene regulatory networks
 - Biotic interactions and co-evolution
 
 # Education to show in About widget
@@ -73,4 +74,4 @@ email: "kumarsaurabh20@gmail.com"
 highlight_name: false
 ---
 
-The rapid advancement of omics technologies has revolutionized our understanding of plant-specific pathways that lead to traits useful for the society. As vast amounts of omics data become available, computational methods have taken center stage in decoding the complex pathways and their regulatory mechanisms. The field is now moving towards a more holistic integration of genomics, transcriptomics, metabolomics, proteomics, and metagenomics spurred by technological innovations that enable untargeted pathway discovery. My research focuses on the synergistic potential of integrating multiple omics datasets and explores how the interplay of gene regulatory networks and temporal data can unravel the complex interactions within these pathways.
+<div style="text-align: justify">The rapid advancement of high-throughput omics technologies has revolutionized our understanding of plant-specific pathways that lead to traits useful for the society. As vast amounts of omics data become available, computational methods have taken center stage in decoding the complex pathways and their regulatory mechanisms. The field is now moving towards a more holistic integration of genomics, transcriptomics, metabolomics, proteomics, and metagenomics spurred by technological innovations that enable untargeted pathway discovery. My research focuses on the synergistic potential of integrating multiple omics datasets and explores how the interplay of gene regulatory networks and temporal data can unravel the complex interactions within these pathways.</div>
