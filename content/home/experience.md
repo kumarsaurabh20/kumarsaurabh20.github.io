@@ -44,7 +44,7 @@ experience:
     company_url: 'www.exeter.ac.uk'
     location: Penryn Campus, Penryn Cornwall UK
     date_start: '2016-01-01'
-    date_end: '2023-03-31'
+    date_end: '2021-03-31'
     description: Insect pests resistance evolution and Insect genomics
 
   - title: Postdoctoral Bioinformatics Scientist
