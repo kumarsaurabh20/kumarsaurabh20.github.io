@@ -7,7 +7,7 @@ tags:
 - insecticide resistance
 - transcriptomics
 - population genomics
-date: "2022-01-06T00:00:00Z"
+date: "2021-04-06T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

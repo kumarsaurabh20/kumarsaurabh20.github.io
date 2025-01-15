@@ -3,7 +3,7 @@ title: NWO Groot
 summary: Usiing integrative omics to disentangle plant gene regulatory networks involved in plant-endophyte interactions.
 tags:
 - plant-endophyte interactions
-date: "2022-01-06T00:00:00Z"
+date: "2024-07-06T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
