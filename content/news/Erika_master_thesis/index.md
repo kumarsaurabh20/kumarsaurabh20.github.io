@@ -1,5 +1,5 @@
 ---
-title: (25-04-22) Successful master thesis defense by Erika Castaneda Sastre
+title: (25-04-24) Successful master thesis defense by Erika Castaneda Sastre
 summary: Erika Castaneda Sastre defended her master dissertation (Master of Science) on the topic "WYtigger - Identifying autosomal and sex-linked contigs using a machine learning-based classifier". This work was jointly supervised by Prof. Dick de Ridder (Bioinformatics, WUR) and myself. Congratulations to Erika on her successful defense and good luck for future scientific adventures.   
 
 tags:
@@ -7,7 +7,7 @@ tags:
 - sex chromosomes
 - plants
 - classifier 
-date: "2024-03-25T00:00:00Z"
+date: "2024-04-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
