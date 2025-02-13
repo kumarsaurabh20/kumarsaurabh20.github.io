@@ -1,6 +1,6 @@
 ---
 title: (22-04-24) Appointment as an Honorary Senior Research Fellow 
-summary: I am thrilled to announce that, as of March 9, 2024, I have been appointed as an Honorary Senior Research Fellow in the Faculty of Environment, Science, and Economy. This appointment, which extends until 2027, will foster new scientific collaborations and research initiatives.
+summary: I am thrilled to announce that, as of March 9, 2024, I have been appointed as an Honorary Senior Research Fellow in the Faculty of Environment, Science, and Economy, University of Exeter, United Kingdom. This appointment, which extends until 2027, will foster new scientific collaborations and research initiatives.
 
 tags:
 - University of Exeter
