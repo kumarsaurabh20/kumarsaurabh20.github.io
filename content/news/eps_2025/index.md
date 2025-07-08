@@ -33,7 +33,10 @@ posters: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
- 
+
+![On our way to the EPS Annual meeting 2025](/EPS_1.jpeg)
+![EPS Annual meeting at the scenic Egmond Aan Zea area](/EPS_2.jpeg) 
 
 
