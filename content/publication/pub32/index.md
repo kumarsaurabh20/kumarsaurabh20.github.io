@@ -1,21 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "MEANtools: multi-omics integration towards metabolite anticipation and biosynthetic pathway prediction (preprint)"
+title: "MEANtools integrates multi-omics data to identify metabolites and predict biosynthetic pathways"
 subtitle: ""
 summary: ""
 authors: ["admin"]
 tags: []
 categories: []
-date: 2024-12-22T12:22:33+02:00
-lastmod: 2024-12-22T12:22:33+02:00
-featured: false
+date: 2025-08-31T12:22:33+02:00
+lastmod: 2025-08-31T12:22:33+02:00
+featured: true
 draft: false
-doi: "https://doi.org/10.1101/2024.12.22.629970"
+doi: "https://doi.org/10.1371/journal.pbio.3003307"
 
-url_pdf: 'https://www.biorxiv.org/content/10.1101/2024.12.22.629970v1.full.pdf'
+url_pdf: 'https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3003307&type=printable'
 
-publication: bioRxiv
+publication: PLoS Biology
 
 publication_types: ["2"]
 
@@ -25,7 +25,7 @@ abstract: During evolution, plants have developed the ability to produce a vast 
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "biorxiv"
+  caption: "PLoS Biology"
   focal_point: ""
   preview_only: false
 
