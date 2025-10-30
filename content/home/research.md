@@ -24,7 +24,18 @@ design:
 ---
 
 #### <div style="text-align: center"><i><span style="color: red;">Wageningen University and Utrecht University, the Netherlands </span></i></div>
-<div style="text-align: justify">In this postdoctoral position, together with the WUR Bioinformatics group (Prof. Marnix Medema), Plant-Microbe interaction group (Prof. Saskia Van Wees/Prof. Corné Pieterse) at Utrecht University and Microbial Sciences group, Institute of Biology, Leiden University (Prof. Gilles van Wezel and Dr. Somayah Elsayed), I explored and implemented innovative -omics integration strategies to map genes and their expression patterns to metabolites that play key roles in host-microbe interactions. We developed a method that integrates metabolomics and transcriptomics data and predicts putative reactions that represent either complete or partial steps of biosyntehtic pathways. This method represents a significant advancement towards obtaining a holistic view of plant metabolism and thus providing researchers, across disciplines, with a powerful tool to unravel complex metabolic routes and generate actionable hypotheses for further investigations.</div>
+<div style="text-align: justify">In this postdoctoral project, I worked at the interface of bioinformatics, metabolomics, and plant–microbe interactions, aiming to uncover how transcriptional regulation translates into specialized metabolite production. The goal was to develop <u>integrative multi-omics strategies</u> that reveal the molecular logic of plant defense and symbiosis. Together with the WUR Bioinformatics group (Prof. Marnix Medema), Plant-Microbe Interaction group (Prof. Saskia Van Wees / Prof. Corné Pieterse) at Utrecht University, and the Microbial Sciences group at Leiden University (Prof. Gilles van Wezel and Dr. Somayah Elsayed), I explored and implemented innovative -omics integration strategies to map genes and their expression patterns to metabolites that play key roles in host-microbe interactions.
+
+We developed a method that integrates <u>**metabolomics**</u> and <u>**transcriptomics**</u> data to predict putative biochemical reactions representing complete or partial steps of biosynthetic pathways. This approach provides a holistic framework for <u>**plant metabolic reconstruction**</u>, offering researchers a powerful tool to unravel complex metabolic networks and generate testable hypotheses for pathway elucidation.Our work contributes to the growing body of research advancing multi-omics integration and natural product discovery:
+
+[Merging genomes, metabolomes, and transcriptomes to uncover biosynthetic pathways](https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.3003307)
+ (PLOS Biology, 2025)
+
+[Recent advances in computational metabolomics and natural product pathway mining](https://www.sciencedirect.com/science/article/pii/S1369526624001481?)
+ (Current Opinion in Biotechnology, 2024)
+
+[Linking genes to molecules: Integrative approaches for specialized metabolism](https://pubs.rsc.org/en/content/articlelanding/2022/np/d2np00032f)
+ (Natural Product Reports, 2022)</div>
 
 #### <div style="text-align: center"><i><span style="color: red;">Rothamsted Research & University of Exeter, UK </span></i></div>
 
