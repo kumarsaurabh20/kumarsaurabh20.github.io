@@ -18,10 +18,10 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Integrative *-omics*
-- Bioinformatics
-- Gene regulatory networks
-- Biotic interactions and co-evolution
+- Integrative Bioinformatics
+- Plant-based Natural Product Pathway Discovery
+- Biotic Interactions and Co-evolution
+- Open Science Data Infrastructure
 
 # Education to show in About widget
 education:

@@ -26,26 +26,26 @@ experience:
   - title: Assistant Professor
     company: Maastricht University
     company_url: https://www.maastrichtuniversity.nl
-    location: Brightsland Future Farming Institute, Venlo, the Netherlands
+    location: Brightlands Future Farming Institute (BFFI), Venlo, the Netherlands
     date_start: '2024-08-01'
     date_end: ''
-    description: Plant Genome Bioinformatics
+    description: Bioinformatics & Integrative Omics; Data Infrastructure; Plant Functional Genomics
 
   - title: Postdoctoral researcher
     company: Wageningen University (Bioinformatics group) and Utrecht University (Plant-Microbe Interaction group)
-    company_url: 'www.exeter.ac.uk'
+    company_url: 'https://www.wur.nl/'
     location: Wageningen and Utrecht, the Netherlands
     date_start: '2021-05-01'
     date_end: '2024-06-30'
     description: Plant-microbe interaction using Multi-Omics
 
-  - title: Postdoctoral researcher (Bass lab)
+  - title: Postdoctoral researcher
     company: University of Exeter
     company_url: 'www.exeter.ac.uk'
     location: Penryn Campus, Penryn Cornwall UK
     date_start: '2016-01-01'
     date_end: '2021-03-31'
-    description: Insect pests resistance evolution and Insect genomics
+    description: Insect pests resistance evolution; Insect genomics and Transcriptomics
 
   - title: Postdoctoral Bioinformatics Scientist
     company: Rothamsted Research
@@ -53,7 +53,7 @@ experience:
     location: Harpenden, Hertfordshire UK
     date_start: '2014-11-10'
     date_end: '2015-12-31'
-    description: Bee Toxicogenomics - Genomics and Transcriptomics
+    description: Bee Toxicogenomics; Genomics and Transcriptomics
 
   - title: EU FP7 Research Scholar
     company: University of Camerino
