@@ -18,7 +18,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Integrative omics
+- Integrative -omics
 - Natural Product Pathway Discovery
 - Open Science Data Infrastructure
 - Biotic Interactions and Co-evolution
@@ -56,9 +56,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/kumarsaurabh20/
-- icon: cv
-  icon_pack: ai
-  link: media/resume.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
