@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: " When flowers turn red: Pathogen induced flavonoid and anthocyanin biosynthesis in Chrysanthemum seticuspe confers resistanceto Botrytis cinerea (preprint)"
+title: " When flowers turn red: Pathogen induced flavonoid and anthocyanin biosynthesis in Chrysanthemum seticuspe confers resistance to Botrytis cinerea (preprint)"
 subtitle: ""
 summary: ""
 authors: ["admin"]
@@ -9,11 +9,11 @@ tags: []
 categories: []
 date: 2025-12-24T12:22:33+02:00
 lastmod: 2025-12-24T12:22:33+02:00
-featured: true
+featured: false
 draft: false
-doi: "https://www.biorxiv.org/content/10.64898/2025.12.20.695701v1"
+doi: "https://doi.org/10.64898/2025.12.20.695701"
 
-url_pdf: 
+url_pdf: "https://www.biorxiv.org/content/10.64898/2025.12.20.695701v1"
 
 publication: Biorxiv
 
