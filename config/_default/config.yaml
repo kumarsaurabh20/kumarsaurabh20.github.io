@@ -5,7 +5,7 @@
 
 title: Kumar Saurabh Singh # Website name
 baseurl: 'www.kumarsaurabhsingh.com' # Website URL
-copyright: '© 2025 DataDeets' # Footer text, e.g. '© {year} Me'
+copyright: '© 2026 DataDeets' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -31,7 +31,8 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>

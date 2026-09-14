@@ -5,3 +5,12 @@
 # If you are not using those tools, this file may be deleted.
 #
 # The actual configuration files are stored in the `config/_default/` folder.
+
+[security]
+  enableInlineShortcodes = false
+
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$', '^WC_POST_CSS$']
+
+  
+
