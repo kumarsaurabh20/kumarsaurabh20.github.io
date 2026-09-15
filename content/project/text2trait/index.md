@@ -1,6 +1,6 @@
 ---
-title: Text2Trait-HARVEST
-summary: A community effort to turn scientific literature into usable knowledge
+title: Human-in-the-loop Actionable Research & Vocabulary Extraction Technology
+summary: Building an end-end framework (HARVEST/Text2Trait) to build Navigable Knowledge Graphs from Unstructured Biological Information
 tags:
 - plant-functional-genomics
 date: "2025-08-01T00:00:00Z"
@@ -18,7 +18,7 @@ links:
   name: Follow
   url: https://twitter.com/kumar_s_singh
 url_code: ""
-url_pdf: "./Poster/NWO-Groot/poster1.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 

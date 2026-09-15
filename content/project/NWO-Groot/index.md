@@ -1,5 +1,5 @@
 ---
-title: NWO Groot
+title: Plant-Microbe Interactions
 summary: Usiing integrative omics to disentangle plant gene regulatory networks involved in plant-endophyte interactions.
 tags:
 - plant-endophyte interactions
